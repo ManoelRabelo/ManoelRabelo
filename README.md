@@ -1,9 +1,9 @@
 - 👋 Me chamo Manoel
 <!-- //- 👀 I’m interested in ... -->
-- 🌱 Tenho conhecimento intermediario de desenvolvimento web 
-- 🌱 Java Script, Html e Css
-- 🌱 Utilizo XAMPP control para criar bancos de dados em MySQL
-- 🌱 E estou me aprofundando no momento em JAVA
+- 🌱 Tenho conhecimento intermediario de desenvolvimento web;
+- 🌱 Java Script, Html e Css;
+- 🌱 Utilizo XAMPP control para criar bancos de dados em MySQL;
+- 🌱 Aprendendo JAVA;
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
