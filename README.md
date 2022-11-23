@@ -3,8 +3,9 @@
 - 🌱 Desenvolvimento web;
 - 🌱 Java Script, Html e Css;
 - 🌱 Angular;
-- 🌱 Utilizo XAMPP control para criar bancos de dados em MySQL;
 - 🌱 JAVA;
+- 🌱 SpringBoot;
+- 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
