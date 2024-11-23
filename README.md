@@ -1,8 +1,6 @@
 - 👋 Me chamo Manoel
 <!-- //- 👀 I’m interested in ... -->
-- 🌱 Desenvolvimento web;
-- 🌱 Java Script, Html e Css;
-- 🌱 Angular;
+- 🌱 Desenvolvimento BackDnd;
 - 🌱 JAVA;
 - 🌱 SpringBoot;
 - 
